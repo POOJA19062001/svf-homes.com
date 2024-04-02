@@ -1,0 +1,49 @@
+.img-container{
+    position: relative;
+}
+.button{
+    position: absolute;
+    margin-top: 380px;
+    z-index: 2;
+    margin-left:480px ;
+    background-color: antiquewhite;
+    align-items: center;
+    
+}
+.button1{
+    position: absolute;
+    margin-top: 10px;
+    z-index: 2;
+    align-items: center;
+    margin-top: 580px;
+    margin-left:630px ;
+    background-color: rgb(235, 228, 232);
+    padding: 10PX;
+
+}
+.flex-container{
+  
+    position: absolute;
+    align-items: center;
+    margin-left: 450px;
+    margin-right: auto;
+    display: flex;
+    padding: 20px;
+   margin: 10px;
+    padding: 60px;
+    z-index: 2;
+    margin: 380px 10px 30px 450px;
+   
+
+}
+#img1{
+    padding: 50px;
+}
+H2{
+    position: absolute;
+    margin-top: 630px;
+    z-index: 2;
+    margin-left:500px ;
+ 
+    align-items: center;
+}
